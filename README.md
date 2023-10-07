@@ -3,14 +3,14 @@
 Задачи на ЕГЭ по инфе
 
 # lovelessunloveable.github.io
-| 213 | ex |
+| Номер задачи | 213 |
 | ------ | ------ |
 | №1 |  |
 | №2 |  |
 | №3 | |
 | №4 |  |
 | №5 |  |
-| №6 | [plugins/googleanalytics/README.md][PlGa] |
+| №6 |  |
 | №7 |  |
 | №8 |  |
 | №9 |  |
